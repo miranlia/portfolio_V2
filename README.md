@@ -1,4 +1,16 @@
-<h1>2nd iteration of my personal portfolio website.</h1>
+<h1>2nd Iteration of my Portfolio Website.</h1>
+
+1. Landing View:
+
+<img width="1541" height="721" alt="Screenshot 2025-08-15 at 1 18 54 PM" src="https://github.com/user-attachments/assets/5f09ccdd-d4fc-42e2-8229-a7c479982d2a" />
+
+2. Experiences Section
+
+<img width="1531" height="757" alt="Screenshot 2025-08-15 at 1 20 32 PM" src="https://github.com/user-attachments/assets/55659e90-703d-4a83-86de-126d03a6408b" />
+
+
+3. Projects Section
+<img width="1541" height="815" alt="Screenshot 2025-08-15 at 1 20 53 PM" src="https://github.com/user-attachments/assets/1ed39116-0d6c-4a49-91a7-b8f23707cc09" />
 
 
 Sections: 
